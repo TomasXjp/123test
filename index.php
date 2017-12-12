@@ -11,4 +11,5 @@ define('HTML_PATH','./LightpenData/html/');
 define('APP_PATH','./LightpenCms/');
 define('CORE','./LightpenCms/_Core');
 require(CORE.'/LightpenCms.php');
+echo '123123123123';
 ?>
